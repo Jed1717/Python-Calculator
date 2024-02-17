@@ -3,7 +3,7 @@ This is a simple Python calculator I made myself!
 
 # Notes:
 I dont know how you will run this since it asks the questions in the terminal/console.
-You can use an online Python interpreter like [this one!][1] Or if you have [Visual Studio Code][3], you can open the .py file and click run!
+You can use an online Python interpreter like [this one!][1] Or if you have [Visual Studio Code][3], you can open the .py file, click open terminal, and click run!
 
 Releases [here!][2]
 
