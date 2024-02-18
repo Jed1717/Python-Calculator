@@ -4,7 +4,8 @@ This is a simple Python calculator I made myself!
 # Notes:
 Right now we have addition, subtraction, multiplication, and division.
 I dont know how you will run this since it asks the questions in the terminal/console.
-You can use an online Python interpreter like [this one!][1] Or if you have [Visual Studio Code][3], you can open the .py file, click open terminal, and click run!
+You can use an online Python interpreter like [this one!][1]
+Or if you have [Visual Studio Code][3], you can open the .py file, click open terminal, and click the arrow next to the run button, and click run Python file!!
 
 Releases [here!][2]
 
